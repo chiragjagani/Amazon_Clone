@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box; 
+}
+
+/* navbar */
+
+.navbar {
+    height: 60px;
+    background-color: hsl(214, 27%, 10%);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/* for logo box-1 */
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+
+.logo {
+    background-image: url(./res/amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+
+.border {
+    border: 1.5px solid transparent;
+}
+
+.border:hover {
+    border: 1.5px solid white;
+}
+
+/* for location box-2 */
+
+.add-del {
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+
+.add-loc {
+    font-size: 1rem;
+    margin-left: 3px;
+    font-weight: bold;
+}
+
+.add-icon {
+    display: flex  ;
+    align-items: center;
+}
+
+/* for search bar box-3 */
+
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hsl(34, 88%, 62%);
+    height: 40px;
+    width: 910px;
+    border-radius: 4px;
+
+}
+
+.nav-search:hover {
+    border: 2px solid orange;
+}
+
+.search-select {
+    background-color: hsl(0, 0%, 83%);
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    color: grey;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+}
+
+.search-icon {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+/* for language */
+
+.en {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 0.85rem;
+}
+
+.nav-lag i {
+    font-size: 20px;
+}
+z
+/* for sign in and return box-4 and box-5 */
+
+span {
+    font-size: 0.7rem;
+}
+
+.nav-sec {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* for cart box-5 */
+
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* for panel */
+
+.panel {
+    display: flex;
+    height: 39px;
+    color: white;
+    align-items: center;
+    padding-left: 11px;
+    background-color: hsl(213, 28%, 19%);
+}
+
+.panel-all {
+    padding: 8px 9px;
+    font-weight: 700;
+}
+
+.panel-ops p {
+    display: inline;
+    margin-left: 10px;
+}
+
+.panel-ops {
+    width: 1181px;
+    font-size: 0.9rem; 
+}
+
+/* hero-section */
+
+.hero-section {
+    background-image: url(./res/hero_image.jpg);
+    height: 600px;
+    background-size: cover;
+}
