@@ -34,4 +34,8 @@ This clone is optimized for larger screens, providing a better experience on lap
 - Amazon for the original design inspiration
 - Icons from [FontAwesome](https://fontawesome.com/)
 
+## Contributions
+
+Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
+
 Feel free to use this project for learning and exploration. Happy coding!
