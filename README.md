@@ -1,33 +1,37 @@
 # Amazon Homepage Clone
 
-## Overview
+This project is a simple clone of the Amazon homepage, optimized for larger screens such as laptops or desktops. It was created for the purpose of refreshing HTML and CSS skills. The design replicates the basic structure and styling of the Amazon homepage.
 
-This project is a clone of the Amazon homepage created for practice and showcasing design and development skills.
+## Preview
+
+[Insert Image or Link to Preview]
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- Font Awesome (for icons)
+- HTML
+- CSS
 
-## Features
+## Getting Started
 
-- Responsive design for various screen sizes.
-- Navigation bar with logo, search bar, user-related options, and more.
-- Hero section with a promotional message.
-- Shop section featuring different product categories.
-- Footer with various panels providing information and links.
+To view the Amazon homepage clone, simply [Click Me!](https://chiragjagani.github.io/Amazon_Clone/)
 
-## Screenshots
+## Compatibility
 
-Include screenshots or GIFs of your Amazon homepage clone here.
+This clone is optimized for larger screens, providing a better experience on laptops or desktops.
 
-## Usage
+## Folder Structure
 
-1. Clone the repository:
+- `index.html`: Main HTML file
+- `style.css`: Main CSS file
+- `res/`: Folder containing resource files such as images
 
-   ```bash
-   git clone https://github.com/your-username/amazon-homepage-clone.git
+## Preview Image
 
+[Insert Image or Link to Preview]
 
-[Check out!](https://chiragjagani.github.io/Amazon_Clone/)
+## Acknowledgments
+
+- Amazon for the original design inspiration
+- Icons from [FontAwesome](https://fontawesome.com/)
+
+Feel free to use this project for learning and exploration. Happy coding!
